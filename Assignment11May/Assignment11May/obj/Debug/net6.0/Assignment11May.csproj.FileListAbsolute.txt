@@ -1,0 +1,5 @@
+C:\Users\AR8TV94\Documents\learning\.Net\.netCore VWits\Assignment11May\Assignment11May\obj\Debug\net6.0\Assignment11May.csproj.AssemblyReference.cache
+C:\Users\AR8TV94\Documents\learning\.Net\.netCore VWits\Assignment11May\Assignment11May\obj\Debug\net6.0\Assignment11May.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR8TV94\Documents\learning\.Net\.netCore VWits\Assignment11May\Assignment11May\obj\Debug\net6.0\Assignment11May.AssemblyInfoInputs.cache
+C:\Users\AR8TV94\Documents\learning\.Net\.netCore VWits\Assignment11May\Assignment11May\obj\Debug\net6.0\Assignment11May.AssemblyInfo.cs
+C:\Users\AR8TV94\Documents\learning\.Net\.netCore VWits\Assignment11May\Assignment11May\obj\Debug\net6.0\Assignment11May.csproj.CoreCompileInputs.cache
